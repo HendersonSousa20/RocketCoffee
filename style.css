@@ -165,14 +165,14 @@ h1:nth-child(3) {
  }
 
  #button-burguer {
-   background: url(/assets/menu-buguer-open.svg) no-repeat;
+   background: url(./assets/menu-buguer-open.svg) no-repeat;
    width: 2.4rem;
     height: 0.8rem;
     cursor: pointer;
  }
 
  #button-burguer.active {
-  background: url(/assets/menu-buguer-close.svg) no-repeat;
+  background: url(./assets/menu-buguer-close.svg) no-repeat;
   width: 1.7rem;
    height: 1.7rem;
    cursor: pointer;
